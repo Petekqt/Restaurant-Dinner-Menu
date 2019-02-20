@@ -1,4 +1,4 @@
-# Restaurent App Using Swing API
+# Restaurant App Using Swing API
 
 A basic order app that calculates sum of order prices.
 
